@@ -1,0 +1,26 @@
+- title: Pages
+  links:
+    - name: Home
+      link: /
+    - name: Portfolio
+      link: /portfolio/
+    - name: Contact
+      link: /contact/
+- title: Social
+  links:
+    - name: Facebook
+      link: https://www.facebook.com/dorsetcollege/
+      social_icon: Facebook
+      new_window: true
+    - name: Twitter
+      link: https://twitter.com/dorsetcollege_?lang=en
+      social_icon: Twitter
+      new_window: true
+    - name: Instagram
+      link: https://www.instagram.com/dorsetcollegedublin/?hl=en
+      social_icon: Instagram
+      new_window: true
+    - name: LinkedIn
+      link: https://www.linkedin.com/school/dorset-college-dublin/about/
+      social_icon: LinkedIn
+      new_window: true
